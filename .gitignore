@@ -1,0 +1,8 @@
+#codeigniter 3
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+
+/system/
+application/config/database.php
+application/config/config.php
